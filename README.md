@@ -1,5 +1,5 @@
 # my-first-repo
-![Profile_Image](images\profile.jfif)
+![Profile_Image](profile.jpg)
 # Name: 
 ## Sanad Hantash
 # Education : 
