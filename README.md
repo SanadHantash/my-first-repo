@@ -1,5 +1,5 @@
 # my-first-repo
-![Profile_Image](profile.jpg)
+![Profile_Image](images/profile.jpg =100x100)
 # Name: 
 ## Sanad Hantash
 # Education : 
