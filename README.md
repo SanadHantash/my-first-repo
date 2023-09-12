@@ -1,6 +1,7 @@
 # my-first-repo
 [Profile_Image](my photo.jfif)
-# Name: ## Sanad Hantash
+# Name: 
+## Sanad Hantash
 # Education : 
 
 2019-2023                  bachelor of business information technology
